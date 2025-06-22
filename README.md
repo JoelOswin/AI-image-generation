@@ -1,7 +1,7 @@
 # AI Image Generation
 ### With Gemini
 
-Hey everyone:smile:, as you can see by the title. This is a script which generates images with the help of gemini, google's AI. <br>
+Hey everyone :smile: , as you can see by the title. This is a script which generates images with the help of gemini, google's AI. <br>
 To run this script, all you need is to create a API Key from <br>
 > https://aistudio.google.com/apikey<br>
 
