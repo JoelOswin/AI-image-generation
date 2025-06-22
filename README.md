@@ -9,6 +9,10 @@ Now create a environmental variable called "API_Key" with it's value as the gene
 Instructions on how to create a environmental variable can be found in the below link<br>
 > https://www.twilio.com/en-us/blog/how-to-set-environment-variables-html<br>
 
+Then run this command in cmd
+```bash
+pip install -q -U google-genai
+```
 Finally, you need to import generate_image.py script and call generate_image function as shown in below code sniplet:
 ```python
 from generate_image import generate_image
